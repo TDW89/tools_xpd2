@@ -3,3 +3,9 @@
 *.bak
 *.swp
 *.swo
+*.log
+
+.python-version
+.venv
+xmos_*
+
